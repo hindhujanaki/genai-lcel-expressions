@@ -63,6 +63,7 @@ parsed_result = output_parser.parse(result)
 print("Recommendation:", parsed_result)
 ```
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/a771494d-93ba-4cfa-82c2-0a64291a2b84)
 
 ### RESULT:
 Hence,the program to design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios is written and successfully executed.
